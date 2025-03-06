@@ -8,9 +8,9 @@ html {
 }
 body {
     margin:0px;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(#4481eb), to(#04bedd));
-    background-image: -o-linear-gradient(top, #4481eb 0%, #04bedd 100%);
-    background-image: linear-gradient(to bottom, #4481eb 0%, #04bedd 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#8805f4), to(#f039b6));
+    background-image: -o-linear-gradient(top, #8805f4 0%, #f039b6 100%);
+    background-image: linear-gradient(to bottom, #8805f4 0%, #f039b6 100%);
 }
 
 p {
